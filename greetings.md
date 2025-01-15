@@ -12,4 +12,11 @@ This is a series of graphics which I constructed with the MetaPost [^1] programm
 
 I made a graphic for Christmas greetings. Halfcircle were scaled, affine transformations applied. 
 
+
+2025 greetings : Tiles
+
+![Folding](/assets/img/card-1.png) | ![Folding](/assets/img/card-2.png)
+
+
+
 [^1]: by John Hobby
